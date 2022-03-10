@@ -17,9 +17,12 @@ My research includes these topics:
 
 #### Involved Projects
 
+- **Full Stack Dev**, INCISE2018 (the International Network for Submarine Canyon Investigation and Scientific Exchange), _Web System Developer & Operations_, 2018
+- **Full Stack Dev**, IWGOA2019 (the International Workshop on Geo-Omics of Archaea), _Web System Developer & Operations_, 2018~2019
+- **Full Stack Dev**, 2021 Women Scientists Forum in SUSTech, _Web System Developer & Operations_, 2018~2019
 - **Member**, ICRI-IACV (Intel Collaborative Research Institute on Intelligent and Automated Connected Vehicles), _"Development of Open Datasets for Autonomous Transportation with Smart Samples and Multi-agent Benchmarks"_ 2019~2021
-- **Member**, Huawei 2012 Labs，_"Autonomous Driving Virtual Simulation Technology"_, 2021-2026
 - **Member**, FXB CO.,LTD., _"Joint International Engineering Education Laboratory for SUSTech CSE and FXB CO.,LTD."_, 2020~2022
+- **Member**, Huawei 2012 Labs，_"Autonomous Driving Virtual Simulation Technology"_, 2021-2026
 
 ---
 
