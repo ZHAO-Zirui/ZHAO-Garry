@@ -10,9 +10,8 @@ My research includes these topics:
 
 - Autonomous Driving Simulator (mostly about CARLA and its ecosystem)
 - DevOps for Robotics (docker, k8s, jenkins, ...)
-- Cluster and Cloud Computing for AD Simulator
-
-
+- Cluster for Autonomous Driving Simulator
+- Simulation as a Service (SaaS)
 
 <!--
 **ZHAO-Garry/ZHAO-Garry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
