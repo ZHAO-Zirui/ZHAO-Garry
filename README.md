@@ -73,8 +73,10 @@ If you want to know my more personal contact ways, such as QQ or WeChat, **pleas
 
 ---
 
-**LAST BUT NOT LEAST**
+#### Last But Not Least!
 
-**DEVELOPERS' LIVES MATTER.**
+**DEVELOPERS' LIVES MATTER!**
 
-Best wishes!
+> Visit [996.icu WebPage](https://996.icu/#/en_US) or [Github Repo](https://github.com/996icu/996.ICU) for more information.
+
+**Best wishes!**
