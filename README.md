@@ -39,7 +39,7 @@ C# / Python / JavaScript / TypeScript / SQL / Shell / Java / Groovy / C / C++ / 
 ##### Web Application Frontend Frameworks
 
 ```
-React / Redux / Three.js / Babylon.JS
+React / Redux / Three.js / Babylon.JS / HTML & CSS (traditional web dev)
 ```
 
 ##### Web Application Backend Frameworks
